@@ -43,7 +43,7 @@
 1. **通过notepad++编写一个C文件并保存为.c文件**
 2. **通过WinSCP讲该文件传入到/usr/local/src/test/目录下**
 3. ![image-20211021113958355](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211021113958355.png)
-4. ![image-20211021114228442](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211021114228442.png)
+4. ![image-20211021114228442](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211021114228442.png)
    - **# gcc [文件名]**
    - **# ./[编译文件名]**
 
@@ -51,15 +51,15 @@
 
 1. **通过notepad++编写一个C文件并保存为.c文件**
 2. **通过WinSCP讲该文件传入到/usr/local/src/test/目录下**
-3. ![image-20211021114520998](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211021114520998.png)
+3. ![image-20211021114520998](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211021114520998.png)
 4. **通过less 【文件名】命令查看文件**
-5. ![image-20211021114903130](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211021114903130.png)
+5. ![image-20211021114903130](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211021114903130.png)
 
 ### 处理汇编文件：
 
 1. **通过notepad++编写一个汇编程序并保存为.asm格式**
 2. **通过WinSCP讲该文件传入到/usr/local/src/test/目录下**
-3. ![image-20211021114928616](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211021114928616.png)
+3. ![image-20211021114928616](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211021114928616.png)
 
 ## task反思总结：
 
