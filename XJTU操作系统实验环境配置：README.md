@@ -16,33 +16,33 @@
 
 5. **通过WinSCP连接服务器**
 
-   ![image-20211021113627032](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211021113627032.png)
+   ![image-20211021113627032](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211021113627032.png)
 
-6. ![image-20211021113652594](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211021113652594.png)
+6. ![image-20211021113652594](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211021113652594.png)
 
 ### Linux操作：通过cd /进入要目录
 
-![image-20211021105417855](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211021105417855.png)
+![image-20211021105417855](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211021105417855.png)
 
 ### 编译和运行C文件：
 
-![image-20211021110020977](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211021110020977.png)
+![image-20211021110020977](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211021110020977.png)
 
 ### Linux操作：使用less命令查看文件
 
-![image-20211021111441250](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211021111441250.png)
+![image-20211021111441250](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211021111441250.png)
 
 ## task3:如何编译运行C文件，汇编文件
 
 ### 大致流程：
 
-![image-20211021113728585](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211021113728585.png)
+![image-20211021113728585](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211021113728585.png)
 
 ### 编译和运行C文件：
 
 1. **通过notepad++编写一个C文件并保存为.c文件**
 2. **通过WinSCP讲该文件传入到/usr/local/src/test/目录下**
-3. ![image-20211021113958355](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211021113958355.png)
+3. ![image-20211021113958355](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211021113958355.png)
 4. ![image-20211021114228442](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211021114228442.png)
    - **# gcc [文件名]**
    - **# ./[编译文件名]**
