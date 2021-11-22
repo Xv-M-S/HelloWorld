@@ -8,7 +8,7 @@
 
 1. **win+R打开cmd终端**
 
-2. ![image-20211021113128061](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211021113128061.png)
+2. ![image-20211021113128061](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211021113128061.png)
 
 3. **输入密码，即可登陆**
 
