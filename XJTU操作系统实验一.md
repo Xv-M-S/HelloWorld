@@ -4,7 +4,7 @@
 
 ### 实验内容：
 
-![image-20211023173219995](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211023173219995.png)
+![image-20211023173219995](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211023173219995.png)
 
 ### 实验过程（a）：
 
@@ -44,11 +44,11 @@
 
 2. **通过openEuler操作系统编译并运行该C程序**
 
-   ![image-20211023220638672](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211023220638672.png)
+   ![image-20211023220638672](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211023220638672.png)
 
 3. **去掉wiat()后的输出**
 
-   ![image-20211023220924347](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211023220924347.png)
+   ![image-20211023220924347](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211023220924347.png)
 
 ### 实验过程（a）理论分析：
 
@@ -103,7 +103,7 @@
 
 2. **程序运行结果**
 
-   ![image-20211023221237752](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211023221237752.png)
+   ![image-20211023221237752](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211023221237752.png)
 
 ### 实验过程（b)理论分析：
 
@@ -158,7 +158,7 @@
 
 2. **程序运行结果**
 
-   ![image-20211023224558890](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211023224558890.png)
+   ![image-20211023224558890](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211023224558890.png)
 
 ### 实验过程 （c）分析：
 
@@ -214,7 +214,7 @@
 
 2. **程序运行结果：**
 
-   ![image-20211023224808692](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211023224808692.png)
+   ![image-20211023224808692](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211023224808692.png)
 
 ### 实验过程（d）分析：
 
@@ -222,7 +222,7 @@
 
 ## 二、线程相关编程实验
 
-![image-20211023214314383](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211023214314383.png)
+![image-20211023214314383](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211023214314383.png)
 
 ### 实验过程：
 
@@ -270,7 +270,7 @@
 
 4. **程序运行结果：**
 
-   ![image-20211023214931453](C:\Users\西安交通大学2193613091sxm\AppData\Roaming\Typora\typora-user-images\image-20211023214931453.png)
+   ![image-20211023214931453](https://raw.githubusercontent.com/Xv-M-S/Typero-images/main/typora-user-images/image-20211023214931453.png)
 
 ### 实验分析：
 
